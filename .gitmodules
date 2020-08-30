@@ -1,3 +1,6 @@
 [submodule "spring-cloud-eureka"]
 	path = spring-cloud-eureka
 	url = https://github.com/WeisonWei/spring-cloud-eureka.git
+[submodule "spring-cloud-admin"]
+	path = spring-cloud-admin
+	url = https://github.com/WeisonWei/spring-cloud-admin.git

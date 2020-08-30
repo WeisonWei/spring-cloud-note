@@ -33,5 +33,6 @@
 
     <modules>
         <module>spring-cloud-eureka</module>
+        <module>spring-cloud-admin</module>
     </modules>
 </project>
