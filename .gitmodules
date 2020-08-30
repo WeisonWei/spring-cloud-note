@@ -4,3 +4,6 @@
 [submodule "spring-cloud-admin"]
 	path = spring-cloud-admin
 	url = https://github.com/WeisonWei/spring-cloud-admin.git
+[submodule "spring-cloud-config"]
+	path = spring-cloud-config
+	url = https://github.com/WeisonWei/spring-cloud-config.git
